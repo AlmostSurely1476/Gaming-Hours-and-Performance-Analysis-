@@ -43,4 +43,4 @@ Produced a 1-pager dashboard using Tableau.
 
 Tableau: [Link](https://public.tableau.com/app/profile/justin.eng3812/viz/GamingHours_Performance_Analysis/Dashboard1?publish=yes)
 
-![Dashboard Preview](Gaming_Performance.png)
+<img width="2055" height="1212" alt="Gaming_Performance" src="https://github.com/user-attachments/assets/976a30fd-5a44-4810-b6e0-da2da94c004d" />
