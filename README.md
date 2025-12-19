@@ -2,7 +2,7 @@
 
 ## 📦 About Data
 
-A dataset exploring the relationship between gaming habits and academic/work performance across 1,000 users.
+A Kaggle [dataset](https://www.kaggle.com/datasets/prince7489/gaming-hours-vs-academic-and-work-performance) exploring the relationship between gaming habits and academic/work performance across 1,000 users.
 
 This dataset contains information on gaming behavior, sleep patterns, stress levels, and performance metrics for students and working professionals.
 
